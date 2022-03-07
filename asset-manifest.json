@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.868559ac.css",
-    "main.js": "./static/js/main.b8f7fd26.js",
+    "main.css": "./static/css/main.e38d28f1.css",
+    "main.js": "./static/js/main.39b1593b.js",
     "static/media/mag glass.png": "./static/media/mag glass.9f835654c0beeb661e9d.png",
     "index.html": "./index.html",
-    "main.868559ac.css.map": "./static/css/main.868559ac.css.map",
-    "main.b8f7fd26.js.map": "./static/js/main.b8f7fd26.js.map"
+    "main.e38d28f1.css.map": "./static/css/main.e38d28f1.css.map",
+    "main.39b1593b.js.map": "./static/js/main.39b1593b.js.map"
   },
   "entrypoints": [
-    "static/css/main.868559ac.css",
-    "static/js/main.b8f7fd26.js"
+    "static/css/main.e38d28f1.css",
+    "static/js/main.39b1593b.js"
   ]
 }
